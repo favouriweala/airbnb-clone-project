@@ -1,11 +1,14 @@
 AirBnB Clone Project
 
 **Project Overview:**
+
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. 
+
 
 **Project Goals:**
 
 Build a full-stack Airbnb clone where users can browse properties, view detailed information, and make bookings through a secure checkout process. The project emphasizes responsive UI/UX design, component-based architecture, and full-stack development.
+
 
 **Tech Stack:**
 
@@ -32,6 +35,7 @@ Ensure fast loading times and optimized performance.
 
 Prioritize mobile responsiveness for all devices.
 
+
 **Key Features**
 
 Property search and filtering
@@ -42,6 +46,7 @@ Secure checkout process
 
 User authentication and account management
 
+
 **Primary Pages**
 | Page Name                 |  Description                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
@@ -49,9 +54,11 @@ User authentication and account management
 | Listing Detailed View     | Shows full property details, images, amenities, reviews, and a booking form. |
 | Simple Checkout View      | Streamlined checkout for booking confirmation and payment processing.       |
 
+
 **Importance of User-Friendly Design**
 
 A user-friendly design reduces friction in the booking process, improves customer satisfaction, and increases conversion rates. Clear navigation, intuitive interfaces, and responsive layouts make it easier for users to find and book properties efficiently, ensuring a positive experience and encouraging repeat use.
+
 
 **Color Styles**
 
@@ -65,6 +72,7 @@ Text: #222222
 
 Secondary Text: #717171
 
+
 **Typography**
 
 Primary Font: Circular, Medium (500), 16px
@@ -72,6 +80,7 @@ Primary Font: Circular, Medium (500), 16px
 Headings: Circular, Bold (700), 24px–32px
 
 Secondary Text: Circular, Book (400), 14px
+
 
 **Importance of Identifying Design Properties**
 
@@ -85,7 +94,8 @@ Guides frontend developers to implement the design accurately.
 
 Improves readability, accessibility, and user experience.
 
-Reduces errors during development by having a clear design reference.
+Reduces errors during development by having a clear design reference. 
+
 
 **Project Roles and Responsibilities**
 | Role	                     |        Responsibilities                                                                                                      |
@@ -98,3 +108,12 @@ Reduces errors during development by having a clear design reference.
 | DevOps Engineers	         |   Manage deployment processes, set up CI/CD pipelines, maintain server infrastructure and performance.                       |
 | Product Owner              |   Define project requirements, prioritize features, represent stakeholders, ensure the project meets business goals.         |
 | Scrum Master	             |   Facilitate agile processes, remove blockers, organize daily stand-ups and sprint meetings, support the team’s productivity.|
+
+
+**UI Component Patterns**
+
+| Component	      |     Description                                                                                                       |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------|
+| Navbar	      |   Includes logo, search bar, user navigation, and a responsive menu for mobile and desktop views.                     |
+| Property Card   |   Displays property image, basic details (price, location, rating), favorite button, and supports responsive layout.  |
+| Footer	      |   Contains site links, company information, social media links, and copyright information.                            |
